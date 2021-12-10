@@ -2,6 +2,8 @@
 
 [Advent of Code: Day 1](https://adventofcode.com/2021/day/1)
 
+[Jose Valim's solution](https://www.youtube.com/watch?v=mDxJjqx5-ns)
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
