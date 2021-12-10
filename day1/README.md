@@ -1,6 +1,6 @@
 # Day1
 
-**TODO: Add description**
+[Advent of Code: Day 1](https://adventofcode.com/2021/day/1)
 
 ## Installation
 
@@ -18,4 +18,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/day1](https://hexdocs.pm/day1).
-
